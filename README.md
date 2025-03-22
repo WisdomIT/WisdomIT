@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   > 
   > [`러닝클로버`](https://learncle.com) - event & career platform
 
-- Currently I'm looking for a job
+- **WELLMADE COMPUTER** `2025.02 ~ current`
 
 <br/>
 
@@ -42,7 +42,6 @@ Here are some ideas to get you started:
 
 - **ks-company** landing page
   > [`link`](http://ks-company.kr/)
-  > [`repos`](https://github.com/WisdomIT/kscompany)
 
 <br/>
 
@@ -54,5 +53,6 @@ Here are some ideas to get you started:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-%232D3748?style=for-the-badge&logo=Prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
